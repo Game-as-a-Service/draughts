@@ -1,5 +1,5 @@
 ( * : 為團隊需自行修改部分 )
-# *Gaas-repo-template ( 換成自己遊戲名稱 )
+# draughts
 
 # Intro your game
 
